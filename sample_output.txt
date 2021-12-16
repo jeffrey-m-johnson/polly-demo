@@ -1,0 +1,2244 @@
+[00m:00s:014ms]: ! Primary Action
+[00m:00s:279ms]: ! Primary Action
+[00m:00s:530ms]: ! Primary Action
+[00m:00s:781ms]: ! Primary Action
+[00m:01s:036ms]: ! Primary Action
+[00m:01s:290ms]: ! Primary Action
+[00m:01s:551ms]: Retrying...
+[00m:01s:784ms]: ! Primary Action
+[00m:01s:812ms]: Retrying...
+[00m:02s:067ms]: Retrying...
+[00m:02s:262ms]: Retrying...
+[00m:02s:321ms]: ! Primary Action
+[00m:02s:499ms]: ! Primary Action
+[00m:02s:576ms]: ! Primary Action
+[00m:02s:827ms]: ! Primary Action
+[00m:02s:843ms]: ! Primary Action
+[00m:03s:084ms]: Retrying...
+[00m:03s:338ms]: ! Primary Action
+[00m:03s:539ms]: Retrying...
+[00m:03s:588ms]: ! Primary Action
+[00m:03s:841ms]: Retrying...
+[00m:04s:093ms]: ! Primary Action
+[00m:04s:230ms]: ! Primary Action
+[00m:04s:291ms]: Retrying...
+[00m:04s:347ms]: ! Primary Action
+[00m:04s:597ms]: ! Primary Action
+[00m:04s:697ms]: ! Primary Action
+[00m:04s:848ms]: ! Primary Action
+[00m:05s:103ms]: ! Primary Action
+[00m:05s:356ms]: Retrying...
+[00m:05s:607ms]: ! Primary Action
+[00m:05s:796ms]: Retrying...
+[00m:05s:858ms]: ! Primary Action
+[00m:06s:115ms]: Retrying...
+[00m:06s:369ms]: ! Primary Action
+[00m:06s:379ms]: Retrying...
+[00m:06s:491ms]: ! Primary Action
+[00m:06s:620ms]: ! Primary Action
+[00m:06s:872ms]: ! Primary Action
+[00m:06s:940ms]: ! Primary Action
+[00m:07s:125ms]: ! Primary Action
+[00m:07s:377ms]: ! Primary Action
+[00m:07s:629ms]: ! Primary Action
+[00m:07s:884ms]: ! Primary Action
+[00m:08s:136ms]: ! Primary Action
+[00m:08s:387ms]: Retrying...
+[00m:08s:640ms]: ! Primary Action
+[00m:08s:763ms]: ! Primary Action
+[00m:08s:893ms]: Retrying...
+[00m:09s:144ms]: ! Primary Action
+[00m:09s:234ms]: Retrying...
+[00m:09s:394ms]: ! Primary Action
+[00m:09s:648ms]: Retrying...
+[00m:09s:681ms]: ! Primary Action
+[00m:09s:903ms]: Retrying...
+[00m:10s:150ms]: ! Primary Action
+[00m:10s:158ms]: Retrying...
+[00m:10s:233ms]: ! Primary Action
+[00m:10s:412ms]: ! Primary Action
+[00m:10s:591ms]: Retrying...
+[00m:10s:666ms]: ! Primary Action
+[00m:10s:920ms]: ! Primary Action
+[00m:11s:171ms]: ! Primary Action
+[00m:11s:208ms]: ! Primary Action
+[00m:11s:425ms]: ! Primary Action
+[00m:11s:680ms]: ! Primary Action
+[00m:11s:930ms]: ! Primary Action
+[00m:12s:183ms]: ! Primary Action
+[00m:12s:437ms]: ! Primary Action
+[00m:12s:687ms]: ! Primary Action
+[00m:12s:938ms]: ! Primary Action
+[00m:13s:188ms]: ! Primary Action
+[00m:13s:438ms]: ! Primary Action
+[00m:13s:688ms]: ! Primary Action
+[00m:13s:945ms]: Circuit breaker break: waiting 00:00:10...
+[00m:13s:945ms]: Retrying...
+[00m:14s:199ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:14s:201ms]: ! Fallback Action
+[00m:14s:254ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:14s:254ms]: ! Fallback Action
+[00m:14s:454ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:14s:454ms]: ! Fallback Action
+[00m:14s:705ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:14s:705ms]: ! Fallback Action
+[00m:14s:959ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:14s:959ms]: ! Fallback Action
+[00m:15s:214ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:15s:214ms]: ! Fallback Action
+[00m:15s:465ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:15s:465ms]: ! Fallback Action
+[00m:15s:716ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:15s:716ms]: ! Fallback Action
+[00m:15s:969ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:15s:969ms]: ! Fallback Action
+[00m:16s:220ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:16s:220ms]: ! Fallback Action
+[00m:16s:474ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:16s:474ms]: ! Fallback Action
+[00m:16s:729ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:16s:729ms]: ! Fallback Action
+[00m:16s:983ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:16s:983ms]: ! Fallback Action
+[00m:17s:237ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:17s:237ms]: ! Fallback Action
+[00m:17s:488ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:17s:488ms]: ! Fallback Action
+[00m:17s:745ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:17s:745ms]: ! Fallback Action
+[00m:17s:997ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:17s:997ms]: ! Fallback Action
+[00m:18s:248ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:18s:248ms]: ! Fallback Action
+[00m:18s:502ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:18s:502ms]: ! Fallback Action
+[00m:18s:753ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:18s:753ms]: ! Fallback Action
+[00m:19s:005ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:19s:005ms]: ! Fallback Action
+[00m:19s:256ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:19s:256ms]: ! Fallback Action
+[00m:19s:506ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:19s:506ms]: ! Fallback Action
+[00m:19s:757ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:19s:757ms]: ! Fallback Action
+[00m:20s:008ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:20s:008ms]: ! Fallback Action
+[00m:20s:259ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:20s:259ms]: ! Fallback Action
+[00m:20s:514ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:20s:514ms]: ! Fallback Action
+[00m:20s:769ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:20s:769ms]: ! Fallback Action
+[00m:21s:020ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:21s:020ms]: ! Fallback Action
+[00m:21s:275ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:21s:275ms]: ! Fallback Action
+[00m:21s:528ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:21s:528ms]: ! Fallback Action
+[00m:21s:779ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:21s:779ms]: ! Fallback Action
+[00m:22s:030ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:22s:030ms]: ! Fallback Action
+[00m:22s:280ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:22s:280ms]: ! Fallback Action
+[00m:22s:531ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:22s:531ms]: ! Fallback Action
+[00m:22s:786ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:22s:786ms]: ! Fallback Action
+[00m:23s:039ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:23s:039ms]: ! Fallback Action
+[00m:23s:294ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:23s:294ms]: ! Fallback Action
+[00m:23s:547ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:23s:547ms]: ! Fallback Action
+[00m:23s:798ms]: Polly.CircuitBreaker.BrokenCircuitException
+[00m:23s:798ms]: ! Fallback Action
+[00m:24s:052ms]: Circuit breaker half-open
+[00m:24s:053ms]: ! Primary Action
+[00m:24s:053ms]: Circuit breaker has reset!
+[00m:24s:303ms]: ! Primary Action
+[00m:24s:555ms]: ! Primary Action
+[00m:24s:805ms]: ! Primary Action
+[00m:25s:056ms]: ! Primary Action
+[00m:25s:309ms]: ! Primary Action
+[00m:25s:564ms]: ! Primary Action
+[00m:25s:820ms]: ! Primary Action
+[00m:26s:073ms]: ! Primary Action
+[00m:26s:329ms]: Retrying...
+[00m:26s:580ms]: ! Primary Action
+[00m:26s:600ms]: ! Primary Action
+[00m:26s:831ms]: ! Primary Action
+[00m:27s:082ms]: ! Primary Action
+[00m:27s:336ms]: Retrying...
+[00m:27s:588ms]: Retrying...
+[00m:27s:670ms]: ! Primary Action
+[00m:27s:804ms]: ! Primary Action
+[00m:27s:838ms]: ! Primary Action
+[00m:28s:091ms]: ! Primary Action
+[00m:28s:343ms]: Retrying...
+[00m:28s:593ms]: ! Primary Action
+[00m:28s:765ms]: ! Primary Action
+[00m:28s:847ms]: ! Primary Action
+[00m:29s:097ms]: ! Primary Action
+[00m:29s:353ms]: Retrying...
+[00m:29s:608ms]: Retrying...
+[00m:29s:719ms]: ! Primary Action
+[00m:29s:832ms]: Retrying...
+[00m:29s:859ms]: ! Primary Action
+[00m:30s:111ms]: ! Primary Action
+[00m:30s:319ms]: ! Primary Action
+[00m:30s:362ms]: ! Primary Action
+[00m:30s:612ms]: ! Primary Action
+[00m:30s:864ms]: ! Primary Action
+[00m:31s:115ms]: ! Primary Action
+[00m:31s:369ms]: ! Primary Action
+[00m:31s:620ms]: ! Primary Action
+[00m:31s:871ms]: ! Primary Action
+[00m:32s:127ms]: Retrying...
+[00m:32s:377ms]: ! Primary Action
+[00m:32s:591ms]: ! Primary Action
+[00m:32s:630ms]: Retrying...
+[00m:32s:884ms]: ! Primary Action
+[00m:32s:889ms]: ! Primary Action
+[00m:33s:136ms]: ! Primary Action
+[00m:33s:390ms]: ! Primary Action
+[00m:33s:641ms]: Retrying...
+[00m:33s:892ms]: ! Primary Action
+[00m:33s:903ms]: ! Primary Action
+[00m:34s:147ms]: Retrying...
+[00m:34s:397ms]: ! Primary Action
+[00m:34s:561ms]: ! Primary Action
+[00m:34s:653ms]: Retrying...
+[00m:34s:906ms]: ! Primary Action
+[00m:34s:969ms]: ! Primary Action
+[00m:35s:156ms]: ! Primary Action
+[00m:35s:406ms]: ! Primary Action
+[00m:35s:657ms]: ! Primary Action
+[00m:35s:907ms]: ! Primary Action
+[00m:36s:158ms]: ! Primary Action
+[00m:36s:413ms]: ! Primary Action
+[00m:36s:665ms]: ! Primary Action
+[00m:36s:920ms]: ! Primary Action
+[00m:37s:175ms]: ! Primary Action
+[00m:37s:427ms]: ! Primary Action
+[00m:37s:678ms]: ! Primary Action
+[00m:37s:932ms]: ! Primary Action
+[00m:38s:186ms]: ! Primary Action
+[00m:38s:438ms]: ! Primary Action
+[00m:38s:693ms]: ! Primary Action
+[00m:38s:948ms]: ! Primary Action
+[00m:39s:203ms]: Retrying...
+[00m:39s:453ms]: ! Primary Action
+[00m:39s:699ms]: Retrying...
+[00m:39s:707ms]: ! Primary Action
+[00m:39s:958ms]: ! Primary Action
+[00m:40s:208ms]: ! Primary Action
+[00m:40s:346ms]: Retrying...
+[00m:40s:462ms]: ! Primary Action
+[00m:40s:717ms]: Retrying...
+[00m:40s:970ms]: ! Primary Action
+[00m:41s:119ms]: ! Primary Action
+[00m:41s:220ms]: ! Primary Action
+[00m:41s:286ms]: ! Primary Action
+[00m:41s:473ms]: Retrying...
+[00m:41s:726ms]: ! Primary Action
+[00m:41s:795ms]: ! Primary Action
+[00m:41s:981ms]: Retrying...
+[00m:42s:232ms]: ! Primary Action
+[00m:42s:447ms]: Retrying...
+[00m:42s:485ms]: ! Primary Action
+[00m:42s:736ms]: ! Primary Action
+[00m:42s:989ms]: Retrying...
+[00m:43s:003ms]: Retrying...
+[00m:43s:244ms]: ! Primary Action
+[00m:43s:248ms]: ! Primary Action
+[00m:43s:496ms]: ! Primary Action
+[00m:43s:749ms]: ! Primary Action
+[00m:44s:003ms]: ! Primary Action
+[00m:44s:028ms]: ! Primary Action
+[00m:44s:256ms]: ! Primary Action
+[00m:44s:512ms]: Retrying...
+[00m:44s:766ms]: ! Primary Action
+[00m:44s:776ms]: ! Primary Action
+[00m:45s:020ms]: ! Primary Action
+[00m:45s:272ms]: ! Primary Action
+[00m:45s:527ms]: ! Primary Action
+[00m:45s:780ms]: ! Primary Action
+[00m:46s:030ms]: ! Primary Action
+[00m:46s:281ms]: Retrying...
+[00m:46s:537ms]: Retrying...
+[00m:46s:778ms]: ! Primary Action
+[00m:46s:792ms]: Retrying...
+[00m:46s:887ms]: ! Primary Action
+[00m:47s:036ms]: Retrying...
+[00m:47s:044ms]: ! Primary Action
+[00m:47s:294ms]: ! Primary Action
+[00m:47s:445ms]: ! Primary Action
+[00m:47s:546ms]: ! Primary Action
+[00m:47s:797ms]: ! Primary Action
+[00m:48s:052ms]: ! Primary Action
+[00m:48s:302ms]: ! Primary Action
+[00m:48s:553ms]: ! Primary Action
+[00m:48s:808ms]: ! Primary Action
+[00m:49s:060ms]: ! Primary Action
+[00m:49s:310ms]: ! Primary Action
+[00m:49s:562ms]: ! Primary Action
+[00m:49s:818ms]: Retrying...
+[00m:50s:070ms]: Retrying...
+[00m:50s:290ms]: ! Primary Action
+[00m:50s:325ms]: ! Primary Action
+[00m:50s:426ms]: ! Primary Action
+[00m:50s:578ms]: ! Primary Action
+[00m:50s:828ms]: ! Primary Action
+[00m:51s:078ms]: ! Primary Action
+[00m:51s:329ms]: ! Primary Action
+[00m:51s:580ms]: Retrying...
+[00m:51s:830ms]: Retrying...
+[00m:51s:981ms]: Retrying...
+[00m:52s:080ms]: ! Primary Action
+[00m:52s:101ms]: Retrying...
+[00m:52s:331ms]: ! Primary Action
+[00m:52s:506ms]: ! Primary Action
+[00m:52s:581ms]: ! Primary Action
+[00m:52s:619ms]: ! Primary Action
+[00m:52s:831ms]: ! Primary Action
+[00m:53s:084ms]: Retrying...
+[00m:53s:336ms]: ! Primary Action
+[00m:53s:478ms]: Retrying...
+[00m:53s:588ms]: Retrying...
+[00m:53s:837ms]: Retrying...
+[00m:53s:844ms]: ! Primary Action
+[00m:54s:096ms]: ! Primary Action
+[00m:54s:177ms]: ! Primary Action
+[00m:54s:244ms]: ! Primary Action
+[00m:54s:346ms]: ! Primary Action
+[00m:54s:600ms]: Retrying...
+[00m:54s:853ms]: ! Primary Action
+[00m:54s:932ms]: ! Primary Action
+[00m:55s:107ms]: ! Primary Action
+[00m:55s:360ms]: ! Primary Action
+[00m:55s:614ms]: ! Primary Action
+[00m:55s:865ms]: ! Primary Action
+[00m:56s:119ms]: Retrying...
+[00m:56s:369ms]: ! Primary Action
+[00m:56s:611ms]: ! Primary Action
+[00m:56s:620ms]: ! Primary Action
+[00m:56s:871ms]: ! Primary Action
+[00m:57s:125ms]: ! Primary Action
+[00m:57s:380ms]: Retrying...
+[00m:57s:632ms]: ! Primary Action
+[00m:57s:677ms]: ! Primary Action
+[00m:57s:886ms]: ! Primary Action
+[00m:58s:137ms]: ! Primary Action
+[00m:58s:389ms]: Retrying...
+[00m:58s:644ms]: Retrying...
+[00m:58s:743ms]: ! Primary Action
+[00m:58s:895ms]: ! Primary Action
+[00m:59s:128ms]: Retrying...
+[00m:59s:146ms]: ! Primary Action
+[00m:59s:398ms]: Retrying...
+[00m:59s:652ms]: ! Primary Action
+[00m:59s:662ms]: ! Primary Action
+[00m:59s:760ms]: ! Primary Action
+[00m:59s:903ms]: ! Primary Action
+[01m:00s:153ms]: ! Primary Action
+[01m:00s:403ms]: ! Primary Action
+[01m:00s:653ms]: ! Primary Action
+[01m:00s:909ms]: ! Primary Action
+[01m:01s:160ms]: Retrying...
+[01m:01s:378ms]: ! Primary Action
+[01m:01s:412ms]: ! Primary Action
+[01m:01s:667ms]: ! Primary Action
+[01m:01s:922ms]: ! Primary Action
+[01m:02s:177ms]: ! Primary Action
+[01m:02s:428ms]: ! Primary Action
+[01m:02s:679ms]: ! Primary Action
+[01m:02s:930ms]: Retrying...
+[01m:03s:183ms]: Retrying...
+[01m:03s:289ms]: ! Primary Action
+[01m:03s:414ms]: ! Primary Action
+[01m:03s:437ms]: ! Primary Action
+[01m:03s:690ms]: Retrying...
+[01m:03s:941ms]: Retrying...
+[01m:03s:989ms]: Circuit breaker break: waiting 00:00:10...
+[01m:03s:989ms]: Retrying...
+[01m:04s:192ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:192ms]: ! Fallback Action
+[01m:04s:260ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:260ms]: ! Fallback Action
+[01m:04s:441ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:441ms]: ! Fallback Action
+[01m:04s:442ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:442ms]: ! Fallback Action
+[01m:04s:698ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:698ms]: ! Fallback Action
+[01m:04s:953ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:04s:953ms]: ! Fallback Action
+[01m:05s:205ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:05s:205ms]: ! Fallback Action
+[01m:05s:456ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:05s:456ms]: ! Fallback Action
+[01m:05s:712ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:05s:713ms]: ! Fallback Action
+[01m:05s:967ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:05s:967ms]: ! Fallback Action
+[01m:06s:221ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:06s:221ms]: ! Fallback Action
+[01m:06s:472ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:06s:472ms]: ! Fallback Action
+[01m:06s:725ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:06s:725ms]: ! Fallback Action
+[01m:06s:981ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:06s:981ms]: ! Fallback Action
+[01m:07s:232ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:07s:232ms]: ! Fallback Action
+[01m:07s:483ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:07s:483ms]: ! Fallback Action
+[01m:07s:738ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:07s:738ms]: ! Fallback Action
+[01m:07s:989ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:07s:989ms]: ! Fallback Action
+[01m:08s:243ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:08s:243ms]: ! Fallback Action
+[01m:08s:499ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:08s:499ms]: ! Fallback Action
+[01m:08s:753ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:08s:753ms]: ! Fallback Action
+[01m:09s:007ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:09s:007ms]: ! Fallback Action
+[01m:09s:263ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:09s:263ms]: ! Fallback Action
+[01m:09s:519ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:09s:519ms]: ! Fallback Action
+[01m:09s:775ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:09s:776ms]: ! Fallback Action
+[01m:10s:027ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:10s:027ms]: ! Fallback Action
+[01m:10s:283ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:10s:283ms]: ! Fallback Action
+[01m:10s:537ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:10s:537ms]: ! Fallback Action
+[01m:10s:788ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:10s:788ms]: ! Fallback Action
+[01m:11s:040ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:11s:040ms]: ! Fallback Action
+[01m:11s:293ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:11s:293ms]: ! Fallback Action
+[01m:11s:544ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:11s:544ms]: ! Fallback Action
+[01m:11s:800ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:11s:800ms]: ! Fallback Action
+[01m:12s:055ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:12s:055ms]: ! Fallback Action
+[01m:12s:310ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:12s:310ms]: ! Fallback Action
+[01m:12s:564ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:12s:564ms]: ! Fallback Action
+[01m:12s:815ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:12s:815ms]: ! Fallback Action
+[01m:13s:071ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:13s:071ms]: ! Fallback Action
+[01m:13s:326ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:13s:326ms]: ! Fallback Action
+[01m:13s:577ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:13s:577ms]: ! Fallback Action
+[01m:13s:830ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:13s:830ms]: ! Fallback Action
+[01m:14s:084ms]: Circuit breaker half-open
+[01m:14s:084ms]: ! Primary Action
+[01m:14s:084ms]: Circuit breaker has reset!
+[01m:14s:336ms]: ! Primary Action
+[01m:14s:587ms]: Retrying...
+[01m:14s:809ms]: ! Primary Action
+[01m:14s:838ms]: ! Primary Action
+[01m:15s:090ms]: ! Primary Action
+[01m:15s:342ms]: ! Primary Action
+[01m:15s:592ms]: ! Primary Action
+[01m:15s:843ms]: ! Primary Action
+[01m:16s:094ms]: ! Primary Action
+[01m:16s:347ms]: Retrying...
+[01m:16s:600ms]: Retrying...
+[01m:16s:704ms]: Retrying...
+[01m:16s:853ms]: Retrying...
+[01m:17s:020ms]: Retrying...
+[01m:17s:107ms]: ! Primary Action
+[01m:17s:329ms]: ! Primary Action
+[01m:17s:330ms]: Retrying...
+[01m:17s:360ms]: Retrying...
+[01m:17s:523ms]: Retrying...
+[01m:17s:611ms]: ! Primary Action
+[01m:17s:732ms]: ! Primary Action
+[01m:17s:786ms]: ! Primary Action
+[01m:17s:866ms]: Retrying...
+[01m:18s:120ms]: ! Primary Action
+[01m:18s:345ms]: ! Primary Action
+[01m:18s:370ms]: ! Primary Action
+[01m:18s:535ms]: ! Primary Action
+[01m:18s:625ms]: ! Primary Action
+[01m:18s:879ms]: ! Primary Action
+[01m:19s:129ms]: ! Primary Action
+[01m:19s:382ms]: ! Primary Action
+[01m:19s:635ms]: ! Primary Action
+[01m:19s:887ms]: Retrying...
+[01m:20s:137ms]: ! Primary Action
+[01m:20s:159ms]: ! Primary Action
+[01m:20s:391ms]: ! Primary Action
+[01m:20s:642ms]: ! Primary Action
+[01m:20s:893ms]: ! Primary Action
+[01m:21s:148ms]: ! Primary Action
+[01m:21s:403ms]: ! Primary Action
+[01m:21s:654ms]: ! Primary Action
+[01m:21s:904ms]: ! Primary Action
+[01m:22s:159ms]: Retrying...
+[01m:22s:384ms]: ! Primary Action
+[01m:22s:409ms]: ! Primary Action
+[01m:22s:661ms]: ! Primary Action
+[01m:22s:911ms]: ! Primary Action
+[01m:23s:164ms]: ! Primary Action
+[01m:23s:419ms]: ! Primary Action
+[01m:23s:669ms]: ! Primary Action
+[01m:23s:922ms]: ! Primary Action
+[01m:24s:177ms]: ! Primary Action
+[01m:24s:432ms]: ! Primary Action
+[01m:24s:685ms]: Retrying...
+[01m:24s:938ms]: ! Primary Action
+[01m:24s:939ms]: ! Primary Action
+[01m:25s:194ms]: ! Primary Action
+[01m:25s:448ms]: ! Primary Action
+[01m:25s:701ms]: ! Primary Action
+[01m:25s:952ms]: Retrying...
+[01m:26s:204ms]: Retrying...
+[01m:26s:404ms]: ! Primary Action
+[01m:26s:455ms]: Circuit breaker break: waiting 00:00:10...
+[01m:26s:456ms]: Retrying...
+[01m:26s:644ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:26s:644ms]: ! Fallback Action
+[01m:26s:712ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:26s:712ms]: ! Fallback Action
+[01m:26s:793ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:26s:793ms]: ! Fallback Action
+[01m:26s:965ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:26s:965ms]: ! Fallback Action
+[01m:27s:220ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:27s:220ms]: ! Fallback Action
+[01m:27s:474ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:27s:475ms]: ! Fallback Action
+[01m:27s:726ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:27s:726ms]: ! Fallback Action
+[01m:27s:981ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:27s:981ms]: ! Fallback Action
+[01m:28s:231ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:28s:231ms]: ! Fallback Action
+[01m:28s:482ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:28s:482ms]: ! Fallback Action
+[01m:28s:737ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:28s:737ms]: ! Fallback Action
+[01m:28s:991ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:28s:991ms]: ! Fallback Action
+[01m:29s:242ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:29s:242ms]: ! Fallback Action
+[01m:29s:497ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:29s:497ms]: ! Fallback Action
+[01m:29s:749ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:29s:749ms]: ! Fallback Action
+[01m:30s:003ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:30s:003ms]: ! Fallback Action
+[01m:30s:254ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:30s:255ms]: ! Fallback Action
+[01m:30s:507ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:30s:507ms]: ! Fallback Action
+[01m:30s:763ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:30s:763ms]: ! Fallback Action
+[01m:31s:017ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:31s:017ms]: ! Fallback Action
+[01m:31s:270ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:31s:271ms]: ! Fallback Action
+[01m:31s:527ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:31s:527ms]: ! Fallback Action
+[01m:31s:781ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:31s:781ms]: ! Fallback Action
+[01m:32s:036ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:32s:036ms]: ! Fallback Action
+[01m:32s:289ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:32s:289ms]: ! Fallback Action
+[01m:32s:542ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:32s:542ms]: ! Fallback Action
+[01m:32s:793ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:32s:793ms]: ! Fallback Action
+[01m:33s:046ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:33s:046ms]: ! Fallback Action
+[01m:33s:298ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:33s:298ms]: ! Fallback Action
+[01m:33s:554ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:33s:554ms]: ! Fallback Action
+[01m:33s:807ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:33s:807ms]: ! Fallback Action
+[01m:34s:059ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:34s:059ms]: ! Fallback Action
+[01m:34s:315ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:34s:315ms]: ! Fallback Action
+[01m:34s:569ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:34s:569ms]: ! Fallback Action
+[01m:34s:821ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:34s:821ms]: ! Fallback Action
+[01m:35s:072ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:35s:072ms]: ! Fallback Action
+[01m:35s:327ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:35s:327ms]: ! Fallback Action
+[01m:35s:582ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:35s:582ms]: ! Fallback Action
+[01m:35s:837ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:35s:837ms]: ! Fallback Action
+[01m:36s:092ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:36s:092ms]: ! Fallback Action
+[01m:36s:343ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:36s:343ms]: ! Fallback Action
+[01m:36s:596ms]: Circuit breaker half-open
+[01m:36s:597ms]: Circuit breaker break: waiting 00:00:10...
+[01m:36s:597ms]: Retrying...
+[01m:36s:839ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:36s:839ms]: ! Fallback Action
+[01m:36s:850ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:36s:850ms]: ! Fallback Action
+[01m:37s:104ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:37s:104ms]: ! Fallback Action
+[01m:37s:358ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:37s:358ms]: ! Fallback Action
+[01m:37s:611ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:37s:611ms]: ! Fallback Action
+[01m:37s:862ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:37s:862ms]: ! Fallback Action
+[01m:38s:118ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:38s:118ms]: ! Fallback Action
+[01m:38s:371ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:38s:371ms]: ! Fallback Action
+[01m:38s:627ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:38s:627ms]: ! Fallback Action
+[01m:38s:882ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:38s:882ms]: ! Fallback Action
+[01m:39s:137ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:39s:137ms]: ! Fallback Action
+[01m:39s:392ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:39s:392ms]: ! Fallback Action
+[01m:39s:643ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:39s:643ms]: ! Fallback Action
+[01m:39s:899ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:39s:899ms]: ! Fallback Action
+[01m:40s:154ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:40s:154ms]: ! Fallback Action
+[01m:40s:409ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:40s:409ms]: ! Fallback Action
+[01m:40s:661ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:40s:661ms]: ! Fallback Action
+[01m:40s:913ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:40s:913ms]: ! Fallback Action
+[01m:41s:165ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:41s:166ms]: ! Fallback Action
+[01m:41s:420ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:41s:420ms]: ! Fallback Action
+[01m:41s:675ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:41s:676ms]: ! Fallback Action
+[01m:41s:927ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:41s:927ms]: ! Fallback Action
+[01m:42s:181ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:42s:181ms]: ! Fallback Action
+[01m:42s:437ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:42s:437ms]: ! Fallback Action
+[01m:42s:692ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:42s:692ms]: ! Fallback Action
+[01m:42s:947ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:42s:947ms]: ! Fallback Action
+[01m:43s:203ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:43s:203ms]: ! Fallback Action
+[01m:43s:458ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:43s:458ms]: ! Fallback Action
+[01m:43s:709ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:43s:709ms]: ! Fallback Action
+[01m:43s:966ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:43s:966ms]: ! Fallback Action
+[01m:44s:220ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:44s:220ms]: ! Fallback Action
+[01m:44s:474ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:44s:474ms]: ! Fallback Action
+[01m:44s:730ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:44s:730ms]: ! Fallback Action
+[01m:44s:982ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:44s:982ms]: ! Fallback Action
+[01m:45s:237ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:45s:237ms]: ! Fallback Action
+[01m:45s:491ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:45s:491ms]: ! Fallback Action
+[01m:45s:742ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:45s:742ms]: ! Fallback Action
+[01m:45s:996ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:45s:996ms]: ! Fallback Action
+[01m:46s:250ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:46s:251ms]: ! Fallback Action
+[01m:46s:501ms]: Polly.CircuitBreaker.BrokenCircuitException
+[01m:46s:501ms]: ! Fallback Action
+[01m:46s:752ms]: Circuit breaker half-open
+[01m:46s:752ms]: ! Primary Action
+[01m:46s:752ms]: Circuit breaker has reset!
+[01m:47s:002ms]: ! Primary Action
+[01m:47s:254ms]: Retrying...
+[01m:47s:504ms]: ! Primary Action
+[01m:47s:582ms]: ! Primary Action
+[01m:47s:759ms]: ! Primary Action
+[01m:48s:014ms]: Retrying...
+[01m:48s:266ms]: ! Primary Action
+[01m:48s:360ms]: ! Primary Action
+[01m:48s:520ms]: ! Primary Action
+[01m:48s:770ms]: ! Primary Action
+[01m:49s:025ms]: ! Primary Action
+[01m:49s:277ms]: Retrying...
+[01m:49s:527ms]: ! Primary Action
+[01m:49s:715ms]: Retrying...
+[01m:49s:779ms]: ! Primary Action
+[01m:50s:034ms]: ! Primary Action
+[01m:50s:223ms]: ! Primary Action
+[01m:50s:286ms]: ! Primary Action
+[01m:50s:540ms]: ! Primary Action
+[01m:50s:791ms]: ! Primary Action
+[01m:51s:041ms]: ! Primary Action
+[01m:51s:297ms]: Retrying...
+[01m:51s:547ms]: ! Primary Action
+[01m:51s:567ms]: ! Primary Action
+[01m:51s:799ms]: Retrying...
+[01m:52s:053ms]: ! Primary Action
+[01m:52s:202ms]: ! Primary Action
+[01m:52s:307ms]: ! Primary Action
+[01m:52s:559ms]: ! Primary Action
+[01m:52s:812ms]: ! Primary Action
+[01m:53s:062ms]: ! Primary Action
+[01m:53s:317ms]: ! Primary Action
+[01m:53s:572ms]: Retrying...
+[01m:53s:786ms]: Retrying...
+[01m:53s:823ms]: ! Primary Action
+[01m:54s:075ms]: ! Primary Action
+[01m:54s:257ms]: ! Primary Action
+[01m:54s:325ms]: ! Primary Action
+[01m:54s:576ms]: ! Primary Action
+[01m:54s:831ms]: ! Primary Action
+[01m:55s:085ms]: ! Primary Action
+[01m:55s:340ms]: ! Primary Action
+[01m:55s:596ms]: Retrying...
+[01m:55s:800ms]: ! Primary Action
+[01m:55s:850ms]: ! Primary Action
+[01m:56s:100ms]: ! Primary Action
+[01m:56s:352ms]: Retrying...
+[01m:56s:606ms]: ! Primary Action
+[01m:56s:738ms]: ! Primary Action
+[01m:56s:858ms]: ! Primary Action
+[01m:57s:108ms]: Retrying...
+[01m:57s:330ms]: ! Primary Action
+[01m:57s:363ms]: ! Primary Action
+[01m:57s:619ms]: ! Primary Action
+[01m:57s:869ms]: ! Primary Action
+[01m:58s:120ms]: Retrying...
+[01m:58s:371ms]: ! Primary Action
+[01m:58s:488ms]: Retrying...
+[01m:58s:626ms]: ! Primary Action
+[01m:58s:881ms]: ! Primary Action
+[01m:58s:989ms]: ! Primary Action
+[01m:59s:136ms]: ! Primary Action
+[01m:59s:390ms]: Retrying...
+[01m:59s:642ms]: Retrying...
+[01m:59s:647ms]: ! Primary Action
+[01m:59s:897ms]: ! Primary Action
+[02m:00s:013ms]: ! Primary Action
+[02m:00s:150ms]: ! Primary Action
+[02m:00s:402ms]: ! Primary Action
+[02m:00s:652ms]: ! Primary Action
+[02m:00s:903ms]: ! Primary Action
+[02m:01s:156ms]: Retrying...
+[02m:01s:408ms]: ! Primary Action
+[02m:01s:488ms]: ! Primary Action
+[02m:01s:658ms]: ! Primary Action
+[02m:01s:908ms]: ! Primary Action
+[02m:02s:162ms]: Retrying...
+[02m:02s:416ms]: Retrying...
+[02m:02s:636ms]: ! Primary Action
+[02m:02s:653ms]: Retrying...
+[02m:02s:669ms]: ! Primary Action
+[02m:02s:921ms]: ! Primary Action
+[02m:03s:172ms]: ! Primary Action
+[02m:03s:219ms]: ! Primary Action
+[02m:03s:424ms]: ! Primary Action
+[02m:03s:678ms]: Retrying...
+[02m:03s:930ms]: ! Primary Action
+[02m:03s:967ms]: ! Primary Action
+[02m:04s:183ms]: ! Primary Action
+[02m:04s:436ms]: Retrying...
+[02m:04s:689ms]: ! Primary Action
+[02m:04s:853ms]: ! Primary Action
+[02m:04s:939ms]: ! Primary Action
+[02m:05s:192ms]: ! Primary Action
+[02m:05s:447ms]: ! Primary Action
+[02m:05s:700ms]: ! Primary Action
+[02m:05s:953ms]: ! Primary Action
+[02m:06s:208ms]: ! Primary Action
+[02m:06s:460ms]: ! Primary Action
+[02m:06s:711ms]: ! Primary Action
+[02m:06s:961ms]: ! Primary Action
+[02m:07s:213ms]: ! Primary Action
+[02m:07s:468ms]: ! Primary Action
+[02m:07s:720ms]: ! Primary Action
+[02m:07s:973ms]: ! Primary Action
+[02m:08s:225ms]: ! Primary Action
+[02m:08s:481ms]: Retrying...
+[02m:08s:732ms]: ! Primary Action
+[02m:08s:799ms]: Retrying...
+[02m:08s:983ms]: ! Primary Action
+[02m:09s:233ms]: ! Primary Action
+[02m:09s:486ms]: ! Primary Action
+[02m:09s:498ms]: ! Primary Action
+[02m:09s:738ms]: ! Primary Action
+[02m:09s:991ms]: Retrying...
+[02m:10s:245ms]: ! Primary Action
+[02m:10s:455ms]: ! Primary Action
+[02m:10s:500ms]: Retrying...
+[02m:10s:753ms]: ! Primary Action
+[02m:10s:856ms]: ! Primary Action
+[02m:11s:003ms]: ! Primary Action
+[02m:11s:255ms]: ! Primary Action
+[02m:11s:506ms]: ! Primary Action
+[02m:11s:761ms]: ! Primary Action
+[02m:12s:013ms]: ! Primary Action
+[02m:12s:268ms]: ! Primary Action
+[02m:12s:523ms]: ! Primary Action
+[02m:12s:778ms]: ! Primary Action
+[02m:13s:028ms]: ! Primary Action
+[02m:13s:283ms]: ! Primary Action
+[02m:13s:536ms]: ! Primary Action
+[02m:13s:787ms]: ! Primary Action
+[02m:14s:039ms]: ! Primary Action
+[02m:14s:290ms]: Retrying...
+[02m:14s:542ms]: ! Primary Action
+[02m:14s:788ms]: ! Primary Action
+[02m:14s:793ms]: Retrying...
+[02m:15s:015ms]: ! Primary Action
+[02m:15s:048ms]: Retrying...
+[02m:15s:302ms]: ! Primary Action
+[02m:15s:521ms]: ! Primary Action
+[02m:15s:555ms]: Retrying...
+[02m:15s:807ms]: ! Primary Action
+[02m:15s:872ms]: ! Primary Action
+[02m:16s:058ms]: ! Primary Action
+[02m:16s:308ms]: Retrying...
+[02m:16s:558ms]: ! Primary Action
+[02m:16s:611ms]: ! Primary Action
+[02m:16s:810ms]: ! Primary Action
+[02m:17s:061ms]: ! Primary Action
+[02m:17s:316ms]: ! Primary Action
+[02m:17s:569ms]: ! Primary Action
+[02m:17s:820ms]: ! Primary Action
+[02m:18s:070ms]: ! Primary Action
+[02m:18s:322ms]: ! Primary Action
+[02m:18s:576ms]: ! Primary Action
+[02m:18s:831ms]: Retrying...
+[02m:19s:085ms]: ! Primary Action
+[02m:19s:260ms]: ! Primary Action
+[02m:19s:336ms]: ! Primary Action
+[02m:19s:587ms]: Retrying...
+[02m:19s:828ms]: ! Primary Action
+[02m:19s:841ms]: Retrying...
+[02m:20s:096ms]: ! Primary Action
+[02m:20s:235ms]: ! Primary Action
+[02m:20s:347ms]: ! Primary Action
+[02m:20s:600ms]: ! Primary Action
+[02m:20s:854ms]: ! Primary Action
+[02m:21s:107ms]: Retrying...
+[02m:21s:357ms]: ! Primary Action
+[02m:21s:588ms]: Retrying...
+[02m:21s:608ms]: ! Primary Action
+[02m:21s:862ms]: ! Primary Action
+[02m:22s:114ms]: ! Primary Action
+[02m:22s:240ms]: Retrying...
+[02m:22s:366ms]: ! Primary Action
+[02m:22s:620ms]: ! Primary Action
+[02m:22s:870ms]: ! Primary Action
+[02m:23s:122ms]: ! Primary Action
+[02m:23s:130ms]: ! Primary Action
+[02m:23s:378ms]: ! Primary Action
+[02m:23s:631ms]: ! Primary Action
+[02m:23s:886ms]: Retrying...
+[02m:24s:138ms]: ! Primary Action
+[02m:24s:328ms]: ! Primary Action
+[02m:24s:393ms]: ! Primary Action
+[02m:24s:645ms]: Retrying...
+[02m:24s:900ms]: ! Primary Action
+[02m:24s:933ms]: Retrying...
+[02m:25s:154ms]: ! Primary Action
+[02m:25s:409ms]: ! Primary Action
+[02m:25s:607ms]: ! Primary Action
+[02m:25s:662ms]: Retrying...
+[02m:25s:913ms]: Retrying...
+[02m:26s:020ms]: ! Primary Action
+[02m:26s:164ms]: ! Primary Action
+[02m:26s:303ms]: ! Primary Action
+[02m:26s:414ms]: ! Primary Action
+[02m:26s:669ms]: ! Primary Action
+[02m:26s:922ms]: ! Primary Action
+[02m:27s:173ms]: Retrying...
+[02m:27s:427ms]: ! Primary Action
+[02m:27s:528ms]: ! Primary Action
+[02m:27s:682ms]: Retrying...
+[02m:27s:938ms]: ! Primary Action
+[02m:28s:185ms]: ! Primary Action
+[02m:28s:193ms]: ! Primary Action
+[02m:28s:448ms]: ! Primary Action
+[02m:28s:699ms]: Retrying...
+[02m:28s:953ms]: ! Primary Action
+[02m:29s:070ms]: Retrying...
+[02m:29s:209ms]: Retrying...
+[02m:29s:414ms]: ! Primary Action
+[02m:29s:461ms]: ! Primary Action
+[02m:29s:513ms]: ! Primary Action
+[02m:29s:712ms]: ! Primary Action
+[02m:29s:964ms]: ! Primary Action
+[02m:30s:218ms]: ! Primary Action
+[02m:30s:469ms]: ! Primary Action
+[02m:30s:719ms]: ! Primary Action
+[02m:30s:972ms]: ! Primary Action
+[02m:31s:224ms]: ! Primary Action
+[02m:31s:477ms]: ! Primary Action
+[02m:31s:732ms]: ! Primary Action
+[02m:31s:986ms]: ! Primary Action
+[02m:32s:236ms]: ! Primary Action
+[02m:32s:490ms]: ! Primary Action
+[02m:32s:743ms]: ! Primary Action
+[02m:32s:994ms]: ! Primary Action
+[02m:33s:248ms]: ! Primary Action
+[02m:33s:502ms]: ! Primary Action
+[02m:33s:754ms]: ! Primary Action
+[02m:34s:004ms]: ! Primary Action
+[02m:34s:257ms]: ! Primary Action
+[02m:34s:511ms]: Retrying...
+[02m:34s:711ms]: ! Primary Action
+[02m:34s:761ms]: ! Primary Action
+[02m:35s:013ms]: ! Primary Action
+[02m:35s:265ms]: ! Primary Action
+[02m:35s:520ms]: ! Primary Action
+[02m:35s:770ms]: ! Primary Action
+[02m:36s:021ms]: ! Primary Action
+[02m:36s:275ms]: Retrying...
+[02m:36s:525ms]: ! Primary Action
+[02m:36s:568ms]: ! Primary Action
+[02m:36s:776ms]: ! Primary Action
+[02m:37s:027ms]: ! Primary Action
+[02m:37s:278ms]: ! Primary Action
+[02m:37s:529ms]: ! Primary Action
+[02m:37s:782ms]: ! Primary Action
+[02m:38s:036ms]: ! Primary Action
+[02m:38s:286ms]: ! Primary Action
+[02m:38s:541ms]: ! Primary Action
+[02m:38s:792ms]: ! Primary Action
+[02m:39s:042ms]: ! Primary Action
+[02m:39s:298ms]: ! Primary Action
+[02m:39s:548ms]: ! Primary Action
+[02m:39s:802ms]: ! Primary Action
+[02m:40s:054ms]: ! Primary Action
+[02m:40s:308ms]: ! Primary Action
+[02m:40s:564ms]: ! Primary Action
+[02m:40s:814ms]: ! Primary Action
+[02m:41s:070ms]: ! Primary Action
+[02m:41s:324ms]: ! Primary Action
+[02m:41s:577ms]: Retrying...
+[02m:41s:831ms]: ! Primary Action
+[02m:41s:889ms]: ! Primary Action
+[02m:42s:081ms]: Retrying...
+[02m:42s:303ms]: ! Primary Action
+[02m:42s:332ms]: ! Primary Action
+[02m:42s:582ms]: ! Primary Action
+[02m:42s:836ms]: ! Primary Action
+[02m:43s:086ms]: ! Primary Action
+[02m:43s:337ms]: ! Primary Action
+[02m:43s:588ms]: Retrying...
+[02m:43s:838ms]: ! Primary Action
+[02m:44s:036ms]: ! Primary Action
+[02m:44s:088ms]: ! Primary Action
+[02m:44s:340ms]: ! Primary Action
+[02m:44s:592ms]: ! Primary Action
+[02m:44s:845ms]: Retrying...
+[02m:45s:077ms]: Retrying...
+[02m:45s:097ms]: ! Primary Action
+[02m:45s:352ms]: ! Primary Action
+[02m:45s:607ms]: ! Primary Action
+[02m:45s:608ms]: Retrying...
+[02m:45s:863ms]: Retrying...
+[02m:46s:114ms]: ! Primary Action
+[02m:46s:236ms]: ! Primary Action
+[02m:46s:370ms]: Retrying...
+[02m:46s:408ms]: ! Primary Action
+[02m:46s:625ms]: ! Primary Action
+[02m:46s:739ms]: ! Primary Action
+[02m:46s:880ms]: ! Primary Action
+[02m:47s:134ms]: ! Primary Action
+[02m:47s:387ms]: Retrying...
+[02m:47s:642ms]: Retrying...
+[02m:47s:820ms]: ! Primary Action
+[02m:47s:897ms]: ! Primary Action
+[02m:47s:958ms]: Retrying...
+[02m:48s:148ms]: ! Primary Action
+[02m:48s:401ms]: ! Primary Action
+[02m:48s:439ms]: ! Primary Action
+[02m:48s:653ms]: ! Primary Action
+[02m:48s:903ms]: ! Primary Action
+[02m:49s:157ms]: ! Primary Action
+[02m:49s:408ms]: ! Primary Action
+[02m:49s:660ms]: Retrying...
+[02m:49s:916ms]: ! Primary Action
+[02m:49s:958ms]: ! Primary Action
+[02m:50s:168ms]: ! Primary Action
+[02m:50s:421ms]: Retrying...
+[02m:50s:672ms]: ! Primary Action
+[02m:50s:673ms]: Retrying...
+[02m:50s:927ms]: ! Primary Action
+[02m:51s:093ms]: ! Primary Action
+[02m:51s:181ms]: ! Primary Action
+[02m:51s:437ms]: Retrying...
+[02m:51s:693ms]: Retrying...
+[02m:51s:707ms]: ! Primary Action
+[02m:51s:947ms]: ! Primary Action
+[02m:52s:053ms]: ! Primary Action
+[02m:52s:201ms]: ! Primary Action
+[02m:52s:455ms]: Retrying...
+[02m:52s:655ms]: ! Primary Action
+[02m:52s:710ms]: ! Primary Action
+[02m:52s:963ms]: ! Primary Action
+[02m:53s:218ms]: ! Primary Action
+[02m:53s:470ms]: ! Primary Action
+[02m:53s:721ms]: ! Primary Action
+[02m:53s:974ms]: ! Primary Action
+[02m:54s:229ms]: ! Primary Action
+[02m:54s:481ms]: ! Primary Action
+[02m:54s:735ms]: ! Primary Action
+[02m:54s:987ms]: Retrying...
+[02m:55s:239ms]: Retrying...
+[02m:55s:324ms]: ! Primary Action
+[02m:55s:463ms]: ! Primary Action
+[02m:55s:490ms]: ! Primary Action
+[02m:55s:744ms]: ! Primary Action
+[02m:55s:999ms]: ! Primary Action
+[02m:56s:254ms]: Retrying...
+[02m:56s:509ms]: ! Primary Action
+[02m:56s:529ms]: ! Primary Action
+[02m:56s:759ms]: ! Primary Action
+[02m:57s:012ms]: Retrying...
+[02m:57s:266ms]: ! Primary Action
+[02m:57s:266ms]: Retrying...
+[02m:57s:521ms]: Retrying...
+[02m:57s:772ms]: Retrying...
+[02m:57s:848ms]: ! Primary Action
+[02m:57s:932ms]: ! Primary Action
+[02m:58s:023ms]: ! Primary Action
+[02m:58s:033ms]: Retrying...
+[02m:58s:274ms]: ! Primary Action
+[02m:58s:527ms]: ! Primary Action
+[02m:58s:688ms]: ! Primary Action
+[02m:58s:779ms]: ! Primary Action
+[02m:59s:035ms]: Retrying...
+[02m:59s:287ms]: Retrying...
+[02m:59s:452ms]: ! Primary Action
+[02m:59s:542ms]: ! Primary Action
+[02m:59s:681ms]: ! Primary Action
+[02m:59s:794ms]: ! Primary Action
+[03m:00s:047ms]: Retrying...
+[03m:00s:286ms]: ! Primary Action
+[03m:00s:302ms]: ! Primary Action
+[03m:00s:556ms]: ! Primary Action
+[03m:00s:807ms]: ! Primary Action
+[03m:01s:057ms]: ! Primary Action
+[03m:01s:307ms]: ! Primary Action
+[03m:01s:557ms]: ! Primary Action
+[03m:01s:808ms]: ! Primary Action
+[03m:02s:058ms]: ! Primary Action
+[03m:02s:313ms]: ! Primary Action
+[03m:02s:563ms]: ! Primary Action
+[03m:02s:818ms]: ! Primary Action
+[03m:03s:070ms]: ! Primary Action
+[03m:03s:323ms]: ! Primary Action
+[03m:03s:576ms]: ! Primary Action
+[03m:03s:831ms]: ! Primary Action
+[03m:04s:086ms]: ! Primary Action
+[03m:04s:339ms]: ! Primary Action
+[03m:04s:590ms]: ! Primary Action
+[03m:04s:841ms]: ! Primary Action
+[03m:05s:094ms]: ! Primary Action
+[03m:05s:349ms]: ! Primary Action
+[03m:05s:602ms]: ! Primary Action
+[03m:05s:857ms]: ! Primary Action
+[03m:06s:109ms]: ! Primary Action
+[03m:06s:365ms]: ! Primary Action
+[03m:06s:620ms]: ! Primary Action
+[03m:06s:873ms]: ! Primary Action
+[03m:07s:124ms]: Retrying...
+[03m:07s:347ms]: ! Primary Action
+[03m:07s:375ms]: Retrying...
+[03m:07s:627ms]: Retrying...
+[03m:07s:658ms]: ! Primary Action
+[03m:07s:880ms]: ! Primary Action
+[03m:07s:905ms]: Retrying...
+[03m:08s:131ms]: ! Primary Action
+[03m:08s:382ms]: Retrying...
+[03m:08s:576ms]: ! Primary Action
+[03m:08s:589ms]: Retrying...
+[03m:08s:636ms]: ! Primary Action
+[03m:08s:886ms]: ! Primary Action
+[03m:09s:137ms]: ! Primary Action
+[03m:09s:143ms]: ! Primary Action
+[03m:09s:390ms]: ! Primary Action
+[03m:09s:641ms]: ! Primary Action
+[03m:09s:896ms]: Retrying...
+[03m:10s:132ms]: ! Primary Action
+[03m:10s:148ms]: Retrying...
+[03m:10s:398ms]: ! Primary Action
+[03m:10s:446ms]: ! Primary Action
+[03m:10s:653ms]: ! Primary Action
+[03m:10s:906ms]: ! Primary Action
+[03m:11s:157ms]: ! Primary Action
+[03m:11s:407ms]: ! Primary Action
+[03m:11s:658ms]: Retrying...
+[03m:11s:909ms]: ! Primary Action
+[03m:12s:022ms]: ! Primary Action
+[03m:12s:163ms]: ! Primary Action
+[03m:12s:414ms]: Retrying...
+[03m:12s:666ms]: ! Primary Action
+[03m:12s:891ms]: ! Primary Action
+[03m:12s:916ms]: Retrying...
+[03m:13s:158ms]: ! Primary Action
+[03m:13s:169ms]: ! Primary Action
+[03m:13s:419ms]: Retrying...
+[03m:13s:672ms]: ! Primary Action
+[03m:13s:693ms]: Retrying...
+[03m:13s:923ms]: ! Primary Action
+[03m:14s:174ms]: ! Primary Action
+[03m:14s:341ms]: Retrying...
+[03m:14s:424ms]: ! Primary Action
+[03m:14s:677ms]: ! Primary Action
+[03m:14s:927ms]: ! Primary Action
+[03m:15s:178ms]: ! Primary Action
+[03m:15s:223ms]: ! Primary Action
+[03m:15s:430ms]: ! Primary Action
+[03m:15s:681ms]: ! Primary Action
+[03m:15s:935ms]: ! Primary Action
+[03m:16s:188ms]: Retrying...
+[03m:16s:406ms]: ! Primary Action
+[03m:16s:442ms]: ! Primary Action
+[03m:16s:693ms]: ! Primary Action
+[03m:16s:943ms]: ! Primary Action
+[03m:17s:194ms]: ! Primary Action
+[03m:17s:445ms]: ! Primary Action
+[03m:17s:696ms]: Retrying...
+[03m:17s:936ms]: Retrying...
+[03m:17s:946ms]: ! Primary Action
+[03m:18s:196ms]: ! Primary Action
+[03m:18s:450ms]: Retrying...
+[03m:18s:450ms]: Retrying...
+[03m:18s:701ms]: ! Primary Action
+[03m:18s:796ms]: ! Primary Action
+[03m:18s:956ms]: Retrying...
+[03m:19s:211ms]: Retrying...
+[03m:19s:281ms]: ! Primary Action
+[03m:19s:411ms]: ! Primary Action
+[03m:19s:437ms]: Circuit breaker break: waiting 00:00:10...
+[03m:19s:437ms]: Retrying...
+[03m:19s:461ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:19s:461ms]: ! Fallback Action
+[03m:19s:716ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:19s:716ms]: ! Fallback Action
+[03m:19s:971ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:19s:971ms]: ! Fallback Action
+[03m:20s:027ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:20s:027ms]: ! Fallback Action
+[03m:20s:222ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:20s:222ms]: ! Fallback Action
+[03m:20s:473ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:20s:473ms]: ! Fallback Action
+[03m:20s:723ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:20s:723ms]: ! Fallback Action
+[03m:20s:977ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:20s:977ms]: ! Fallback Action
+[03m:21s:232ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:21s:232ms]: ! Fallback Action
+[03m:21s:483ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:21s:483ms]: ! Fallback Action
+[03m:21s:736ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:21s:736ms]: ! Fallback Action
+[03m:21s:987ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:21s:987ms]: ! Fallback Action
+[03m:22s:237ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:22s:237ms]: ! Fallback Action
+[03m:22s:488ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:22s:488ms]: ! Fallback Action
+[03m:22s:740ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:22s:740ms]: ! Fallback Action
+[03m:22s:992ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:22s:992ms]: ! Fallback Action
+[03m:23s:243ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:23s:243ms]: ! Fallback Action
+[03m:23s:493ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:23s:493ms]: ! Fallback Action
+[03m:23s:746ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:23s:746ms]: ! Fallback Action
+[03m:23s:997ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:23s:997ms]: ! Fallback Action
+[03m:24s:249ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:24s:249ms]: ! Fallback Action
+[03m:24s:503ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:24s:503ms]: ! Fallback Action
+[03m:24s:756ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:24s:756ms]: ! Fallback Action
+[03m:25s:007ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:25s:007ms]: ! Fallback Action
+[03m:25s:260ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:25s:260ms]: ! Fallback Action
+[03m:25s:512ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:25s:512ms]: ! Fallback Action
+[03m:25s:765ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:25s:765ms]: ! Fallback Action
+[03m:26s:020ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:26s:020ms]: ! Fallback Action
+[03m:26s:270ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:26s:270ms]: ! Fallback Action
+[03m:26s:525ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:26s:525ms]: ! Fallback Action
+[03m:26s:779ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:26s:779ms]: ! Fallback Action
+[03m:27s:032ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:27s:032ms]: ! Fallback Action
+[03m:27s:287ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:27s:287ms]: ! Fallback Action
+[03m:27s:538ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:27s:538ms]: ! Fallback Action
+[03m:27s:789ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:27s:789ms]: ! Fallback Action
+[03m:28s:040ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:28s:040ms]: ! Fallback Action
+[03m:28s:295ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:28s:295ms]: ! Fallback Action
+[03m:28s:547ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:28s:547ms]: ! Fallback Action
+[03m:28s:802ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:28s:802ms]: ! Fallback Action
+[03m:29s:053ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:29s:053ms]: ! Fallback Action
+[03m:29s:304ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:29s:305ms]: ! Fallback Action
+[03m:29s:557ms]: Circuit breaker half-open
+[03m:29s:557ms]: ! Primary Action
+[03m:29s:557ms]: Circuit breaker has reset!
+[03m:29s:808ms]: ! Primary Action
+[03m:30s:062ms]: ! Primary Action
+[03m:30s:312ms]: ! Primary Action
+[03m:30s:563ms]: Retrying...
+[03m:30s:817ms]: ! Primary Action
+[03m:30s:925ms]: ! Primary Action
+[03m:31s:070ms]: Retrying...
+[03m:31s:322ms]: ! Primary Action
+[03m:31s:367ms]: ! Primary Action
+[03m:31s:572ms]: ! Primary Action
+[03m:31s:825ms]: ! Primary Action
+[03m:32s:080ms]: Retrying...
+[03m:32s:334ms]: ! Primary Action
+[03m:32s:374ms]: ! Primary Action
+[03m:32s:588ms]: ! Primary Action
+[03m:32s:839ms]: Retrying...
+[03m:33s:092ms]: ! Primary Action
+[03m:33s:143ms]: ! Primary Action
+[03m:33s:342ms]: ! Primary Action
+[03m:33s:594ms]: ! Primary Action
+[03m:33s:845ms]: Retrying...
+[03m:34s:095ms]: ! Primary Action
+[03m:34s:131ms]: Retrying...
+[03m:34s:346ms]: ! Primary Action
+[03m:34s:601ms]: Retrying...
+[03m:34s:819ms]: ! Primary Action
+[03m:34s:856ms]: ! Primary Action
+[03m:35s:045ms]: ! Primary Action
+[03m:35s:106ms]: ! Primary Action
+[03m:35s:356ms]: ! Primary Action
+[03m:35s:607ms]: ! Primary Action
+[03m:35s:859ms]: ! Primary Action
+[03m:36s:110ms]: ! Primary Action
+[03m:36s:364ms]: ! Primary Action
+[03m:36s:614ms]: Retrying...
+[03m:36s:864ms]: ! Primary Action
+[03m:36s:908ms]: ! Primary Action
+[03m:37s:116ms]: Retrying...
+[03m:37s:368ms]: ! Primary Action
+[03m:37s:384ms]: ! Primary Action
+[03m:37s:619ms]: ! Primary Action
+[03m:37s:870ms]: Retrying...
+[03m:38s:123ms]: ! Primary Action
+[03m:38s:237ms]: Retrying...
+[03m:38s:373ms]: Retrying...
+[03m:38s:623ms]: ! Primary Action
+[03m:38s:677ms]: ! Primary Action
+[03m:38s:760ms]: Retrying...
+[03m:38s:874ms]: ! Primary Action
+[03m:39s:125ms]: ! Primary Action
+[03m:39s:219ms]: Retrying...
+[03m:39s:375ms]: ! Primary Action
+[03m:39s:627ms]: Retrying...
+[03m:39s:880ms]: ! Primary Action
+[03m:39s:987ms]: ! Primary Action
+[03m:40s:106ms]: System.Exception
+[03m:40s:106ms]: ! Fallback Action
+[03m:40s:135ms]: Retrying...
+[03m:40s:385ms]: ! Primary Action
+[03m:40s:614ms]: ! Primary Action
+[03m:40s:638ms]: ! Primary Action
+[03m:40s:889ms]: ! Primary Action
+[03m:41s:139ms]: Retrying...
+[03m:41s:393ms]: ! Primary Action
+[03m:41s:613ms]: ! Primary Action
+[03m:41s:645ms]: ! Primary Action
+[03m:41s:896ms]: ! Primary Action
+[03m:42s:151ms]: ! Primary Action
+[03m:42s:403ms]: ! Primary Action
+[03m:42s:655ms]: ! Primary Action
+[03m:42s:908ms]: ! Primary Action
+[03m:43s:162ms]: ! Primary Action
+[03m:43s:413ms]: Circuit breaker break: waiting 00:00:10...
+[03m:43s:413ms]: Retrying...
+[03m:43s:667ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:43s:667ms]: ! Fallback Action
+[03m:43s:767ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:43s:767ms]: ! Fallback Action
+[03m:43s:921ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:43s:921ms]: ! Fallback Action
+[03m:44s:175ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:44s:175ms]: ! Fallback Action
+[03m:44s:426ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:44s:426ms]: ! Fallback Action
+[03m:44s:677ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:44s:677ms]: ! Fallback Action
+[03m:44s:928ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:44s:928ms]: ! Fallback Action
+[03m:45s:179ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:45s:179ms]: ! Fallback Action
+[03m:45s:430ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:45s:430ms]: ! Fallback Action
+[03m:45s:685ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:45s:685ms]: ! Fallback Action
+[03m:45s:937ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:45s:937ms]: ! Fallback Action
+[03m:46s:188ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:46s:188ms]: ! Fallback Action
+[03m:46s:438ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:46s:438ms]: ! Fallback Action
+[03m:46s:689ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:46s:689ms]: ! Fallback Action
+[03m:46s:939ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:46s:939ms]: ! Fallback Action
+[03m:47s:190ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:47s:190ms]: ! Fallback Action
+[03m:47s:441ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:47s:441ms]: ! Fallback Action
+[03m:47s:692ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:47s:692ms]: ! Fallback Action
+[03m:47s:943ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:47s:943ms]: ! Fallback Action
+[03m:48s:194ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:48s:194ms]: ! Fallback Action
+[03m:48s:445ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:48s:445ms]: ! Fallback Action
+[03m:48s:696ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:48s:696ms]: ! Fallback Action
+[03m:48s:951ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:48s:951ms]: ! Fallback Action
+[03m:49s:202ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:49s:202ms]: ! Fallback Action
+[03m:49s:454ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:49s:454ms]: ! Fallback Action
+[03m:49s:705ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:49s:705ms]: ! Fallback Action
+[03m:49s:960ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:49s:960ms]: ! Fallback Action
+[03m:50s:212ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:50s:212ms]: ! Fallback Action
+[03m:50s:466ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:50s:466ms]: ! Fallback Action
+[03m:50s:719ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:50s:719ms]: ! Fallback Action
+[03m:50s:974ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:50s:974ms]: ! Fallback Action
+[03m:51s:229ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:51s:229ms]: ! Fallback Action
+[03m:51s:482ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:51s:482ms]: ! Fallback Action
+[03m:51s:736ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:51s:736ms]: ! Fallback Action
+[03m:51s:988ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:51s:989ms]: ! Fallback Action
+[03m:52s:240ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:52s:240ms]: ! Fallback Action
+[03m:52s:494ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:52s:494ms]: ! Fallback Action
+[03m:52s:748ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:52s:748ms]: ! Fallback Action
+[03m:53s:001ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:53s:001ms]: ! Fallback Action
+[03m:53s:255ms]: Polly.CircuitBreaker.BrokenCircuitException
+[03m:53s:255ms]: ! Fallback Action
+[03m:53s:505ms]: Circuit breaker half-open
+[03m:53s:505ms]: ! Primary Action
+[03m:53s:505ms]: Circuit breaker has reset!
+[03m:53s:759ms]: ! Primary Action
+[03m:54s:012ms]: Retrying...
+[03m:54s:267ms]: ! Primary Action
+[03m:54s:422ms]: ! Primary Action
+[03m:54s:520ms]: ! Primary Action
+[03m:54s:773ms]: ! Primary Action
+[03m:55s:025ms]: Retrying...
+[03m:55s:280ms]: ! Primary Action
+[03m:55s:462ms]: Retrying...
+[03m:55s:532ms]: ! Primary Action
+[03m:55s:785ms]: ! Primary Action
+[03m:55s:936ms]: ! Primary Action
+[03m:56s:036ms]: Retrying...
+[03m:56s:286ms]: ! Primary Action
+[03m:56s:356ms]: ! Primary Action
+[03m:56s:538ms]: ! Primary Action
+[03m:56s:789ms]: Retrying...
+[03m:57s:040ms]: Retrying...
+[03m:57s:144ms]: ! Primary Action
+[03m:57s:290ms]: ! Primary Action
+[03m:57s:501ms]: Retrying...
+[03m:57s:540ms]: ! Primary Action
+[03m:57s:793ms]: ! Primary Action
+[03m:57s:957ms]: ! Primary Action
+[03m:58s:044ms]: Retrying...
+[03m:58s:294ms]: ! Primary Action
+[03m:58s:486ms]: ! Primary Action
+[03m:58s:548ms]: ! Primary Action
+[03m:58s:802ms]: ! Primary Action
+[03m:59s:054ms]: ! Primary Action
+[03m:59s:304ms]: ! Primary Action
+[03m:59s:555ms]: Retrying...
+[03m:59s:806ms]: Retrying...
+[03m:59s:913ms]: ! Primary Action
+[04m:00s:059ms]: ! Primary Action
+[04m:00s:149ms]: Retrying...
+[04m:00s:315ms]: ! Primary Action
+[04m:00s:568ms]: ! Primary Action
+[04m:00s:741ms]: ! Primary Action
+[04m:00s:822ms]: ! Primary Action
+[04m:01s:076ms]: ! Primary Action
+[04m:01s:327ms]: ! Primary Action
+[04m:01s:577ms]: ! Primary Action
+[04m:01s:828ms]: Retrying...
+[04m:02s:079ms]: ! Primary Action
+[04m:02s:159ms]: ! Primary Action
+[04m:02s:333ms]: ! Primary Action
+[04m:02s:583ms]: Retrying...
+[04m:02s:836ms]: ! Primary Action
+[04m:02s:894ms]: ! Primary Action
+[04m:03s:086ms]: ! Primary Action
+[04m:03s:336ms]: ! Primary Action
+[04m:03s:586ms]: ! Primary Action
+[04m:03s:838ms]: ! Primary Action
+[04m:04s:088ms]: ! Primary Action
+[04m:04s:338ms]: ! Primary Action
+[04m:04s:588ms]: Retrying...
+[04m:04s:839ms]: ! Primary Action
+[04m:04s:894ms]: ! Primary Action
+[04m:05s:091ms]: ! Primary Action
+[04m:05s:341ms]: Retrying...
+[04m:05s:593ms]: Retrying...
+[04m:05s:693ms]: ! Primary Action
+[04m:05s:843ms]: ! Primary Action
+[04m:05s:888ms]: ! Primary Action
+[04m:06s:093ms]: ! Primary Action
+[04m:06s:346ms]: ! Primary Action
+[04m:06s:601ms]: Retrying...
+[04m:06s:852ms]: ! Primary Action
+[04m:06s:969ms]: ! Primary Action
+[04m:07s:107ms]: Circuit breaker break: waiting 00:00:10...
+[04m:07s:107ms]: Retrying...
+[04m:07s:362ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:07s:362ms]: ! Fallback Action
+[04m:07s:593ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:07s:593ms]: ! Fallback Action
+[04m:07s:614ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:07s:614ms]: ! Fallback Action
+[04m:07s:865ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:07s:865ms]: ! Fallback Action
+[04m:08s:119ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:08s:119ms]: ! Fallback Action
+[04m:08s:374ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:08s:374ms]: ! Fallback Action
+[04m:08s:627ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:08s:627ms]: ! Fallback Action
+[04m:08s:881ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:08s:881ms]: ! Fallback Action
+[04m:09s:132ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:09s:132ms]: ! Fallback Action
+[04m:09s:386ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:09s:386ms]: ! Fallback Action
+[04m:09s:637ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:09s:637ms]: ! Fallback Action
+[04m:09s:888ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:09s:888ms]: ! Fallback Action
+[04m:10s:142ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:10s:142ms]: ! Fallback Action
+[04m:10s:393ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:10s:393ms]: ! Fallback Action
+[04m:10s:645ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:10s:645ms]: ! Fallback Action
+[04m:10s:899ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:10s:899ms]: ! Fallback Action
+[04m:11s:151ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:11s:151ms]: ! Fallback Action
+[04m:11s:406ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:11s:406ms]: ! Fallback Action
+[04m:11s:658ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:11s:658ms]: ! Fallback Action
+[04m:11s:911ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:11s:911ms]: ! Fallback Action
+[04m:12s:165ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:12s:165ms]: ! Fallback Action
+[04m:12s:420ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:12s:420ms]: ! Fallback Action
+[04m:12s:672ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:12s:672ms]: ! Fallback Action
+[04m:12s:923ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:12s:923ms]: ! Fallback Action
+[04m:13s:174ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:13s:174ms]: ! Fallback Action
+[04m:13s:428ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:13s:428ms]: ! Fallback Action
+[04m:13s:681ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:13s:681ms]: ! Fallback Action
+[04m:13s:932ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:13s:932ms]: ! Fallback Action
+[04m:14s:187ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:14s:187ms]: ! Fallback Action
+[04m:14s:437ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:14s:437ms]: ! Fallback Action
+[04m:14s:692ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:14s:692ms]: ! Fallback Action
+[04m:14s:943ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:14s:943ms]: ! Fallback Action
+[04m:15s:197ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:15s:197ms]: ! Fallback Action
+[04m:15s:451ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:15s:451ms]: ! Fallback Action
+[04m:15s:705ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:15s:705ms]: ! Fallback Action
+[04m:15s:958ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:15s:958ms]: ! Fallback Action
+[04m:16s:211ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:16s:211ms]: ! Fallback Action
+[04m:16s:462ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:16s:462ms]: ! Fallback Action
+[04m:16s:715ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:16s:715ms]: ! Fallback Action
+[04m:16s:967ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:16s:967ms]: ! Fallback Action
+[04m:17s:220ms]: Circuit breaker half-open
+[04m:17s:220ms]: ! Primary Action
+[04m:17s:220ms]: Circuit breaker has reset!
+[04m:17s:473ms]: ! Primary Action
+[04m:17s:723ms]: Retrying...
+[04m:17s:973ms]: ! Primary Action
+[04m:18s:157ms]: ! Primary Action
+[04m:18s:225ms]: ! Primary Action
+[04m:18s:479ms]: ! Primary Action
+[04m:18s:732ms]: Retrying...
+[04m:18s:985ms]: ! Primary Action
+[04m:19s:124ms]: ! Primary Action
+[04m:19s:236ms]: Retrying...
+[04m:19s:490ms]: ! Primary Action
+[04m:19s:702ms]: ! Primary Action
+[04m:19s:744ms]: ! Primary Action
+[04m:19s:995ms]: ! Primary Action
+[04m:20s:245ms]: ! Primary Action
+[04m:20s:496ms]: Retrying...
+[04m:20s:751ms]: Retrying...
+[04m:20s:937ms]: ! Primary Action
+[04m:21s:003ms]: ! Primary Action
+[04m:21s:169ms]: ! Primary Action
+[04m:21s:253ms]: ! Primary Action
+[04m:21s:507ms]: ! Primary Action
+[04m:21s:758ms]: ! Primary Action
+[04m:22s:008ms]: ! Primary Action
+[04m:22s:259ms]: Retrying...
+[04m:22s:513ms]: Retrying...
+[04m:22s:675ms]: ! Primary Action
+[04m:22s:766ms]: ! Primary Action
+[04m:22s:987ms]: ! Primary Action
+[04m:23s:019ms]: Retrying...
+[04m:23s:274ms]: ! Primary Action
+[04m:23s:330ms]: ! Primary Action
+[04m:23s:524ms]: ! Primary Action
+[04m:23s:775ms]: ! Primary Action
+[04m:24s:027ms]: ! Primary Action
+[04m:24s:282ms]: Retrying...
+[04m:24s:532ms]: ! Primary Action
+[04m:24s:538ms]: ! Primary Action
+[04m:24s:785ms]: ! Primary Action
+[04m:25s:039ms]: ! Primary Action
+[04m:25s:289ms]: ! Primary Action
+[04m:25s:541ms]: ! Primary Action
+[04m:25s:795ms]: ! Primary Action
+[04m:26s:045ms]: Retrying...
+[04m:26s:299ms]: Retrying...
+[04m:26s:369ms]: ! Primary Action
+[04m:26s:552ms]: ! Primary Action
+[04m:26s:686ms]: ! Primary Action
+[04m:26s:803ms]: ! Primary Action
+[04m:27s:053ms]: ! Primary Action
+[04m:27s:304ms]: Retrying...
+[04m:27s:557ms]: ! Primary Action
+[04m:27s:561ms]: ! Primary Action
+[04m:27s:812ms]: Retrying...
+[04m:28s:064ms]: ! Primary Action
+[04m:28s:301ms]: Retrying...
+[04m:28s:314ms]: ! Primary Action
+[04m:28s:564ms]: ! Primary Action
+[04m:28s:744ms]: ! Primary Action
+[04m:28s:814ms]: ! Primary Action
+[04m:29s:064ms]: ! Primary Action
+[04m:29s:315ms]: Retrying...
+[04m:29s:569ms]: Circuit breaker break: waiting 00:00:10...
+[04m:29s:569ms]: Retrying...
+[04m:29s:730ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:29s:730ms]: ! Fallback Action
+[04m:29s:821ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:29s:821ms]: ! Fallback Action
+[04m:29s:972ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:29s:972ms]: ! Fallback Action
+[04m:30s:076ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:30s:076ms]: ! Fallback Action
+[04m:30s:330ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:30s:330ms]: ! Fallback Action
+[04m:30s:583ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:30s:583ms]: ! Fallback Action
+[04m:30s:834ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:30s:834ms]: ! Fallback Action
+[04m:31s:086ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:31s:086ms]: ! Fallback Action
+[04m:31s:337ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:31s:337ms]: ! Fallback Action
+[04m:31s:587ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:31s:587ms]: ! Fallback Action
+[04m:31s:838ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:31s:838ms]: ! Fallback Action
+[04m:32s:089ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:32s:089ms]: ! Fallback Action
+[04m:32s:340ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:32s:340ms]: ! Fallback Action
+[04m:32s:593ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:32s:593ms]: ! Fallback Action
+[04m:32s:844ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:32s:844ms]: ! Fallback Action
+[04m:33s:097ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:33s:097ms]: ! Fallback Action
+[04m:33s:351ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:33s:351ms]: ! Fallback Action
+[04m:33s:603ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:33s:603ms]: ! Fallback Action
+[04m:33s:857ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:33s:857ms]: ! Fallback Action
+[04m:34s:112ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:34s:112ms]: ! Fallback Action
+[04m:34s:364ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:34s:364ms]: ! Fallback Action
+[04m:34s:615ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:34s:615ms]: ! Fallback Action
+[04m:34s:869ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:34s:870ms]: ! Fallback Action
+[04m:35s:124ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:35s:124ms]: ! Fallback Action
+[04m:35s:378ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:35s:378ms]: ! Fallback Action
+[04m:35s:630ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:35s:630ms]: ! Fallback Action
+[04m:35s:883ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:35s:883ms]: ! Fallback Action
+[04m:36s:136ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:36s:136ms]: ! Fallback Action
+[04m:36s:387ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:36s:387ms]: ! Fallback Action
+[04m:36s:642ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:36s:642ms]: ! Fallback Action
+[04m:36s:893ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:36s:893ms]: ! Fallback Action
+[04m:37s:147ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:37s:147ms]: ! Fallback Action
+[04m:37s:401ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:37s:401ms]: ! Fallback Action
+[04m:37s:652ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:37s:652ms]: ! Fallback Action
+[04m:37s:904ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:37s:904ms]: ! Fallback Action
+[04m:38s:155ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:38s:155ms]: ! Fallback Action
+[04m:38s:408ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:38s:408ms]: ! Fallback Action
+[04m:38s:660ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:38s:660ms]: ! Fallback Action
+[04m:38s:914ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:38s:914ms]: ! Fallback Action
+[04m:39s:166ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:39s:166ms]: ! Fallback Action
+[04m:39s:422ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:39s:422ms]: ! Fallback Action
+[04m:39s:672ms]: Circuit breaker half-open
+[04m:39s:672ms]: ! Primary Action
+[04m:39s:672ms]: Circuit breaker has reset!
+[04m:39s:923ms]: Retrying...
+[04m:40s:179ms]: Retrying...
+[04m:40s:221ms]: ! Primary Action
+[04m:40s:402ms]: Retrying...
+[04m:40s:432ms]: ! Primary Action
+[04m:40s:686ms]: ! Primary Action
+[04m:40s:893ms]: Retrying...
+[04m:40s:941ms]: Retrying...
+[04m:41s:192ms]: ! Primary Action
+[04m:41s:306ms]: ! Primary Action
+[04m:41s:445ms]: Retrying...
+[04m:41s:695ms]: ! Primary Action
+[04m:41s:863ms]: ! Primary Action
+[04m:41s:946ms]: Retrying...
+[04m:41s:986ms]: ! Primary Action
+[04m:42s:169ms]: ! Primary Action
+[04m:42s:201ms]: ! Primary Action
+[04m:42s:453ms]: ! Primary Action
+[04m:42s:704ms]: ! Primary Action
+[04m:42s:956ms]: Retrying...
+[04m:43s:207ms]: ! Primary Action
+[04m:43s:329ms]: ! Primary Action
+[04m:43s:457ms]: ! Primary Action
+[04m:43s:711ms]: ! Primary Action
+[04m:43s:964ms]: ! Primary Action
+[04m:44s:214ms]: ! Primary Action
+[04m:44s:469ms]: ! Primary Action
+[04m:44s:720ms]: ! Primary Action
+[04m:44s:970ms]: ! Primary Action
+[04m:45s:220ms]: ! Primary Action
+[04m:45s:473ms]: Retrying...
+[04m:45s:723ms]: ! Primary Action
+[04m:45s:757ms]: ! Primary Action
+[04m:45s:974ms]: ! Primary Action
+[04m:46s:224ms]: ! Primary Action
+[04m:46s:478ms]: Retrying...
+[04m:46s:731ms]: ! Primary Action
+[04m:46s:862ms]: ! Primary Action
+[04m:46s:981ms]: ! Primary Action
+[04m:47s:235ms]: ! Primary Action
+[04m:47s:488ms]: Retrying...
+[04m:47s:740ms]: ! Primary Action
+[04m:47s:903ms]: ! Primary Action
+[04m:47s:994ms]: ! Primary Action
+[04m:48s:246ms]: ! Primary Action
+[04m:48s:501ms]: Retrying...
+[04m:48s:753ms]: ! Primary Action
+[04m:48s:970ms]: ! Primary Action
+[04m:49s:007ms]: ! Primary Action
+[04m:49s:257ms]: ! Primary Action
+[04m:49s:508ms]: ! Primary Action
+[04m:49s:761ms]: ! Primary Action
+[04m:50s:012ms]: ! Primary Action
+[04m:50s:262ms]: Retrying...
+[04m:50s:514ms]: Retrying...
+[04m:50s:649ms]: ! Primary Action
+[04m:50s:769ms]: Retrying...
+[04m:50s:940ms]: ! Primary Action
+[04m:51s:021ms]: ! Primary Action
+[04m:51s:201ms]: ! Primary Action
+[04m:51s:273ms]: Retrying...
+[04m:51s:524ms]: Retrying...
+[04m:51s:591ms]: Circuit breaker break: waiting 00:00:10...
+[04m:51s:592ms]: Retrying...
+[04m:51s:776ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:51s:776ms]: ! Fallback Action
+[04m:51s:894ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:51s:894ms]: ! Fallback Action
+[04m:52s:032ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:52s:032ms]: ! Fallback Action
+[04m:52s:191ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:52s:191ms]: ! Fallback Action
+[04m:52s:286ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:52s:286ms]: ! Fallback Action
+[04m:52s:537ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:52s:537ms]: ! Fallback Action
+[04m:52s:789ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:52s:789ms]: ! Fallback Action
+[04m:53s:043ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:53s:043ms]: ! Fallback Action
+[04m:53s:297ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:53s:297ms]: ! Fallback Action
+[04m:53s:551ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:53s:551ms]: ! Fallback Action
+[04m:53s:805ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:53s:805ms]: ! Fallback Action
+[04m:54s:058ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:54s:058ms]: ! Fallback Action
+[04m:54s:313ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:54s:313ms]: ! Fallback Action
+[04m:54s:567ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:54s:567ms]: ! Fallback Action
+[04m:54s:820ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:54s:820ms]: ! Fallback Action
+[04m:55s:070ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:55s:070ms]: ! Fallback Action
+[04m:55s:322ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:55s:322ms]: ! Fallback Action
+[04m:55s:576ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:55s:576ms]: ! Fallback Action
+[04m:55s:832ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:55s:832ms]: ! Fallback Action
+[04m:56s:083ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:56s:083ms]: ! Fallback Action
+[04m:56s:334ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:56s:334ms]: ! Fallback Action
+[04m:56s:588ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:56s:588ms]: ! Fallback Action
+[04m:56s:842ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:56s:842ms]: ! Fallback Action
+[04m:57s:097ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:57s:097ms]: ! Fallback Action
+[04m:57s:351ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:57s:351ms]: ! Fallback Action
+[04m:57s:603ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:57s:603ms]: ! Fallback Action
+[04m:57s:856ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:57s:856ms]: ! Fallback Action
+[04m:58s:111ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:58s:111ms]: ! Fallback Action
+[04m:58s:366ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:58s:366ms]: ! Fallback Action
+[04m:58s:620ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:58s:620ms]: ! Fallback Action
+[04m:58s:875ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:58s:875ms]: ! Fallback Action
+[04m:59s:125ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:59s:125ms]: ! Fallback Action
+[04m:59s:379ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:59s:379ms]: ! Fallback Action
+[04m:59s:633ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:59s:633ms]: ! Fallback Action
+[04m:59s:887ms]: Polly.CircuitBreaker.BrokenCircuitException
+[04m:59s:887ms]: ! Fallback Action
+[05m:00s:140ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:00s:140ms]: ! Fallback Action
+[05m:00s:394ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:00s:394ms]: ! Fallback Action
+[05m:00s:646ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:00s:646ms]: ! Fallback Action
+[05m:00s:901ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:00s:901ms]: ! Fallback Action
+[05m:01s:153ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:01s:153ms]: ! Fallback Action
+[05m:01s:407ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:01s:407ms]: ! Fallback Action
+[05m:01s:660ms]: Circuit breaker half-open
+[05m:01s:661ms]: ! Primary Action
+[05m:01s:661ms]: Circuit breaker has reset!
+[05m:01s:911ms]: ! Primary Action
+[05m:02s:162ms]: ! Primary Action
+[05m:02s:415ms]: Retrying...
+[05m:02s:669ms]: Retrying...
+[05m:02s:783ms]: ! Primary Action
+[05m:02s:919ms]: ! Primary Action
+[05m:02s:973ms]: ! Primary Action
+[05m:03s:173ms]: ! Primary Action
+[05m:03s:423ms]: ! Primary Action
+[05m:03s:677ms]: ! Primary Action
+[05m:03s:928ms]: ! Primary Action
+[05m:04s:178ms]: ! Primary Action
+[05m:04s:433ms]: ! Primary Action
+[05m:04s:683ms]: ! Primary Action
+[05m:04s:935ms]: ! Primary Action
+[05m:05s:186ms]: ! Primary Action
+[05m:05s:439ms]: ! Primary Action
+[05m:05s:691ms]: ! Primary Action
+[05m:05s:945ms]: ! Primary Action
+[05m:06s:198ms]: ! Primary Action
+[05m:06s:451ms]: ! Primary Action
+[05m:06s:702ms]: Retrying...
+[05m:06s:953ms]: ! Primary Action
+[05m:07s:002ms]: ! Primary Action
+[05m:07s:204ms]: Retrying...
+[05m:07s:456ms]: ! Primary Action
+[05m:07s:521ms]: Retrying...
+[05m:07s:709ms]: Retrying...
+[05m:07s:963ms]: ! Primary Action
+[05m:07s:966ms]: ! Primary Action
+[05m:08s:111ms]: ! Primary Action
+[05m:08s:215ms]: ! Primary Action
+[05m:08s:467ms]: ! Primary Action
+[05m:08s:720ms]: Retrying...
+[05m:08s:975ms]: ! Primary Action
+[05m:09s:193ms]: Retrying...
+[05m:09s:228ms]: ! Primary Action
+[05m:09s:482ms]: Retrying...
+[05m:09s:664ms]: Retrying...
+[05m:09s:736ms]: ! Primary Action
+[05m:09s:794ms]: ! Primary Action
+[05m:09s:986ms]: ! Primary Action
+[05m:10s:237ms]: ! Primary Action
+[05m:10s:487ms]: ! Primary Action
+[05m:10s:505ms]: ! Primary Action
+[05m:10s:737ms]: ! Primary Action
+[05m:10s:987ms]: ! Primary Action
+[05m:11s:237ms]: ! Primary Action
+[05m:11s:488ms]: ! Primary Action
+[05m:11s:741ms]: ! Primary Action
+[05m:11s:996ms]: Retrying...
+[05m:12s:251ms]: Retrying...
+[05m:12s:259ms]: ! Primary Action
+[05m:12s:502ms]: ! Primary Action
+[05m:12s:733ms]: ! Primary Action
+[05m:12s:760ms]: Retrying...
+[05m:13s:019ms]: ! Primary Action
+[05m:13s:108ms]: ! Primary Action
+[05m:13s:271ms]: ! Primary Action
+[05m:13s:530ms]: Retrying...
+[05m:13s:789ms]: ! Primary Action
+[05m:13s:870ms]: ! Primary Action
+[05m:14s:043ms]: ! Primary Action
+[05m:14s:301ms]: ! Primary Action
+[05m:14s:555ms]: Retrying...
+[05m:14s:813ms]: ! Primary Action
+[05m:15s:051ms]: ! Primary Action
+[05m:15s:069ms]: ! Primary Action
+[05m:15s:319ms]: ! Primary Action
+[05m:15s:577ms]: ! Primary Action
+[05m:15s:834ms]: Retrying...
+[05m:16s:087ms]: Retrying...
+[05m:16s:151ms]: Retrying...
+[05m:16s:338ms]: ! Primary Action
+[05m:16s:594ms]: ! Primary Action
+[05m:16s:594ms]: Retrying...
+[05m:16s:842ms]: ! Primary Action
+[05m:16s:851ms]: ! Primary Action
+[05m:17s:028ms]: ! Primary Action
+[05m:17s:109ms]: ! Primary Action
+[05m:17s:366ms]: Retrying...
+[05m:17s:617ms]: ! Primary Action
+[05m:17s:712ms]: ! Primary Action
+[05m:17s:873ms]: Retrying...
+[05m:18s:126ms]: ! Primary Action
+[05m:18s:233ms]: ! Primary Action
+[05m:18s:383ms]: ! Primary Action
+[05m:18s:637ms]: ! Primary Action
+[05m:18s:897ms]: ! Primary Action
+[05m:19s:153ms]: Retrying...
+[05m:19s:410ms]: ! Primary Action
+[05m:19s:601ms]: ! Primary Action
+[05m:19s:668ms]: ! Primary Action
+[05m:19s:922ms]: ! Primary Action
+[05m:20s:174ms]: Retrying...
+[05m:20s:429ms]: ! Primary Action
+[05m:20s:433ms]: Retrying...
+[05m:20s:689ms]: Circuit breaker break: waiting 00:00:10...
+[05m:20s:689ms]: Retrying...
+[05m:20s:888ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:20s:888ms]: ! Fallback Action
+[05m:20s:943ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:20s:943ms]: ! Fallback Action
+[05m:20s:990ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:20s:990ms]: ! Fallback Action
+[05m:21s:201ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:21s:201ms]: ! Fallback Action
+[05m:21s:454ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:21s:454ms]: ! Fallback Action
+[05m:21s:708ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:21s:708ms]: ! Fallback Action
+[05m:21s:966ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:21s:966ms]: ! Fallback Action
+[05m:22s:223ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:22s:223ms]: ! Fallback Action
+[05m:22s:484ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:22s:484ms]: ! Fallback Action
+[05m:22s:734ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:22s:734ms]: ! Fallback Action
+[05m:22s:993ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:22s:993ms]: ! Fallback Action
+[05m:23s:251ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:23s:251ms]: ! Fallback Action
+[05m:23s:507ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:23s:507ms]: ! Fallback Action
+[05m:23s:765ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:23s:765ms]: ! Fallback Action
+[05m:24s:019ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:24s:019ms]: ! Fallback Action
+[05m:24s:273ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:24s:273ms]: ! Fallback Action
+[05m:24s:533ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:24s:533ms]: ! Fallback Action
+[05m:24s:787ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:24s:787ms]: ! Fallback Action
+[05m:25s:043ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:25s:043ms]: ! Fallback Action
+[05m:25s:301ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:25s:301ms]: ! Fallback Action
+[05m:25s:559ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:25s:559ms]: ! Fallback Action
+[05m:25s:814ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:25s:814ms]: ! Fallback Action
+[05m:26s:069ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:26s:069ms]: ! Fallback Action
+[05m:26s:321ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:26s:321ms]: ! Fallback Action
+[05m:26s:572ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:26s:572ms]: ! Fallback Action
+[05m:26s:824ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:26s:824ms]: ! Fallback Action
+[05m:27s:082ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:27s:082ms]: ! Fallback Action
+[05m:27s:334ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:27s:334ms]: ! Fallback Action
+[05m:27s:585ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:27s:585ms]: ! Fallback Action
+[05m:27s:843ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:27s:843ms]: ! Fallback Action
+[05m:28s:101ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:28s:101ms]: ! Fallback Action
+[05m:28s:356ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:28s:356ms]: ! Fallback Action
+[05m:28s:612ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:28s:612ms]: ! Fallback Action
+[05m:28s:869ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:28s:869ms]: ! Fallback Action
+[05m:29s:121ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:29s:121ms]: ! Fallback Action
+[05m:29s:378ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:29s:378ms]: ! Fallback Action
+[05m:29s:632ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:29s:632ms]: ! Fallback Action
+[05m:29s:887ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:29s:887ms]: ! Fallback Action
+[05m:30s:138ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:30s:138ms]: ! Fallback Action
+[05m:30s:396ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:30s:396ms]: ! Fallback Action
+[05m:30s:651ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:30s:651ms]: ! Fallback Action
+[05m:30s:907ms]: Circuit breaker half-open
+[05m:30s:907ms]: ! Primary Action
+[05m:30s:907ms]: Circuit breaker has reset!
+[05m:31s:165ms]: ! Primary Action
+[05m:31s:423ms]: Retrying...
+[05m:31s:681ms]: ! Primary Action
+[05m:31s:707ms]: ! Primary Action
+[05m:31s:932ms]: Retrying...
+[05m:32s:190ms]: ! Primary Action
+[05m:32s:203ms]: ! Primary Action
+[05m:32s:443ms]: Retrying...
+[05m:32s:701ms]: ! Primary Action
+[05m:32s:769ms]: ! Primary Action
+[05m:32s:956ms]: ! Primary Action
+[05m:33s:213ms]: ! Primary Action
+[05m:33s:468ms]: ! Primary Action
+[05m:33s:725ms]: ! Primary Action
+[05m:33s:981ms]: Retrying...
+[05m:34s:237ms]: ! Primary Action
+[05m:34s:370ms]: Retrying...
+[05m:34s:490ms]: ! Primary Action
+[05m:34s:740ms]: ! Primary Action
+[05m:34s:814ms]: Retrying...
+[05m:34s:991ms]: ! Primary Action
+[05m:35s:251ms]: ! Primary Action
+[05m:35s:506ms]: ! Primary Action
+[05m:35s:713ms]: ! Primary Action
+[05m:35s:764ms]: ! Primary Action
+[05m:36s:017ms]: ! Primary Action
+[05m:36s:268ms]: ! Primary Action
+[05m:36s:522ms]: ! Primary Action
+[05m:36s:780ms]: ! Primary Action
+[05m:37s:034ms]: ! Primary Action
+[05m:37s:287ms]: ! Primary Action
+[05m:37s:538ms]: ! Primary Action
+[05m:37s:794ms]: ! Primary Action
+[05m:38s:052ms]: Retrying...
+[05m:38s:302ms]: Retrying...
+[05m:38s:308ms]: ! Primary Action
+[05m:38s:558ms]: ! Primary Action
+[05m:38s:783ms]: Retrying...
+[05m:38s:810ms]: Retrying...
+[05m:39s:066ms]: Retrying...
+[05m:39s:240ms]: ! Primary Action
+[05m:39s:287ms]: Retrying...
+[05m:39s:321ms]: ! Primary Action
+[05m:39s:519ms]: Retrying...
+[05m:39s:580ms]: ! Primary Action
+[05m:39s:801ms]: ! Primary Action
+[05m:39s:831ms]: ! Primary Action
+[05m:40s:069ms]: ! Primary Action
+[05m:40s:090ms]: ! Primary Action
+[05m:40s:347ms]: Retrying...
+[05m:40s:605ms]: ! Primary Action
+[05m:40s:630ms]: ! Primary Action
+[05m:40s:860ms]: ! Primary Action
+[05m:41s:117ms]: ! Primary Action
+[05m:41s:377ms]: ! Primary Action
+[05m:41s:630ms]: ! Primary Action
+[05m:41s:885ms]: ! Primary Action
+[05m:42s:137ms]: Retrying...
+[05m:42s:395ms]: ! Primary Action
+[05m:42s:579ms]: ! Primary Action
+[05m:42s:652ms]: Retrying...
+[05m:42s:911ms]: Retrying...
+[05m:43s:079ms]: ! Primary Action
+[05m:43s:169ms]: ! Primary Action
+[05m:43s:303ms]: ! Primary Action
+[05m:43s:420ms]: ! Primary Action
+[05m:43s:674ms]: ! Primary Action
+[05m:43s:929ms]: ! Primary Action
+[05m:44s:179ms]: ! Primary Action
+[05m:44s:436ms]: ! Primary Action
+[05m:44s:687ms]: ! Primary Action
+[05m:44s:941ms]: ! Primary Action
+[05m:45s:201ms]: ! Primary Action
+[05m:45s:453ms]: ! Primary Action
+[05m:45s:709ms]: Retrying...
+[05m:45s:969ms]: ! Primary Action
+[05m:46s:193ms]: Retrying...
+[05m:46s:227ms]: ! Primary Action
+[05m:46s:481ms]: ! Primary Action
+[05m:46s:642ms]: ! Primary Action
+[05m:46s:739ms]: ! Primary Action
+[05m:46s:998ms]: Retrying...
+[05m:47s:254ms]: ! Primary Action
+[05m:47s:411ms]: ! Primary Action
+[05m:47s:509ms]: Retrying...
+[05m:47s:766ms]: ! Primary Action
+[05m:47s:837ms]: Circuit breaker break: waiting 00:00:10...
+[05m:47s:837ms]: Retrying...
+[05m:48s:023ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:48s:023ms]: ! Fallback Action
+[05m:48s:251ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:48s:251ms]: ! Fallback Action
+[05m:48s:278ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:48s:278ms]: ! Fallback Action
+[05m:48s:532ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:48s:532ms]: ! Fallback Action
+[05m:48s:783ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:48s:783ms]: ! Fallback Action
+[05m:49s:042ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:49s:042ms]: ! Fallback Action
+[05m:49s:301ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:49s:301ms]: ! Fallback Action
+[05m:49s:560ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:49s:560ms]: ! Fallback Action
+[05m:49s:817ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:49s:817ms]: ! Fallback Action
+[05m:50s:074ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:50s:074ms]: ! Fallback Action
+[05m:50s:328ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:50s:328ms]: ! Fallback Action
+[05m:50s:584ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:50s:584ms]: ! Fallback Action
+[05m:50s:837ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:50s:837ms]: ! Fallback Action
+[05m:51s:091ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:51s:091ms]: ! Fallback Action
+[05m:51s:351ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:51s:351ms]: ! Fallback Action
+[05m:51s:609ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:51s:609ms]: ! Fallback Action
+[05m:51s:860ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:51s:860ms]: ! Fallback Action
+[05m:52s:111ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:52s:111ms]: ! Fallback Action
+[05m:52s:362ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:52s:362ms]: ! Fallback Action
+[05m:52s:620ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:52s:620ms]: ! Fallback Action
+[05m:52s:878ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:52s:878ms]: ! Fallback Action
+[05m:53s:136ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:53s:136ms]: ! Fallback Action
+[05m:53s:394ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:53s:394ms]: ! Fallback Action
+[05m:53s:651ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:53s:651ms]: ! Fallback Action
+[05m:53s:906ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:53s:906ms]: ! Fallback Action
+[05m:54s:160ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:54s:160ms]: ! Fallback Action
+[05m:54s:418ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:54s:418ms]: ! Fallback Action
+[05m:54s:669ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:54s:669ms]: ! Fallback Action
+[05m:54s:929ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:54s:929ms]: ! Fallback Action
+[05m:55s:187ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:55s:187ms]: ! Fallback Action
+[05m:55s:443ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:55s:443ms]: ! Fallback Action
+[05m:55s:701ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:55s:701ms]: ! Fallback Action
+[05m:55s:960ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:55s:960ms]: ! Fallback Action
+[05m:56s:216ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:56s:216ms]: ! Fallback Action
+[05m:56s:472ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:56s:472ms]: ! Fallback Action
+[05m:56s:729ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:56s:729ms]: ! Fallback Action
+[05m:56s:986ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:56s:986ms]: ! Fallback Action
+[05m:57s:246ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:57s:246ms]: ! Fallback Action
+[05m:57s:501ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:57s:501ms]: ! Fallback Action
+[05m:57s:759ms]: Polly.CircuitBreaker.BrokenCircuitException
+[05m:57s:759ms]: ! Fallback Action
+[05m:58s:016ms]: Circuit breaker half-open
+[05m:58s:016ms]: ! Primary Action
+[05m:58s:016ms]: Circuit breaker has reset!
+[05m:58s:266ms]: ! Primary Action
+[05m:58s:521ms]: Retrying...
+[05m:58s:780ms]: ! Primary Action
+[05m:58s:952ms]: Retrying...
+[05m:59s:038ms]: ! Primary Action
+[05m:59s:291ms]: ! Primary Action
+[05m:59s:382ms]: ! Primary Action
+[05m:59s:551ms]: ! Primary Action
+[05m:59s:808ms]: ! Primary Action
+[06m:00s:060ms]: ! Primary Action
+[06m:00s:310ms]: ! Primary Action
+[06m:00s:563ms]: Retrying...
+[06m:00s:815ms]: ! Primary Action
+[06m:00s:901ms]: ! Primary Action
+[06m:01s:071ms]: Retrying...
+[06m:01s:332ms]: Retrying...
+[06m:01s:514ms]: Retrying...
+[06m:01s:585ms]: Retrying...
+[06m:01s:764ms]: ! Primary Action
+[06m:01s:836ms]: ! Primary Action
+[06m:01s:846ms]: ! Primary Action
+[06m:01s:955ms]: ! Primary Action
+[06m:02s:094ms]: Retrying...
+[06m:02s:351ms]: Retrying...
+[06m:02s:421ms]: Retrying...
+[06m:02s:575ms]: ! Primary Action
+[06m:02s:608ms]: ! Primary Action
+[06m:02s:861ms]: ! Primary Action
+[06m:03s:003ms]: ! Primary Action
+[06m:03s:119ms]: ! Primary Action
+[06m:03s:374ms]: ! Primary Action
+[06m:03s:631ms]: ! Primary Action
+[06m:03s:882ms]: Retrying...
+[06m:04s:137ms]: ! Primary Action
+[06m:04s:285ms]: ! Primary Action
+[06m:04s:391ms]: ! Primary Action
+[06m:04s:651ms]: Retrying...
+[06m:04s:902ms]: ! Primary Action
+[06m:05s:115ms]: ! Primary Action
+[06m:05s:152ms]: ! Primary Action
+[06m:05s:407ms]: Retrying...
+[06m:05s:660ms]: ! Primary Action
+[06m:05s:777ms]: Retrying...
+[06m:05s:913ms]: ! Primary Action
+[06m:06s:164ms]: ! Primary Action
+[06m:06s:415ms]: ! Primary Action
+[06m:06s:470ms]: ! Primary Action
+[06m:06s:669ms]: ! Primary Action
